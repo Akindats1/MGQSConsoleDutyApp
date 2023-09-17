@@ -1,0 +1,17 @@
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\DutiesAllocationApp.csproj.AssemblyReference.cache
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\DutiesAllocationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\DutiesAllocationApp.AssemblyInfoInputs.cache
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\DutiesAllocationApp.AssemblyInfo.cs
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\DutiesAllocationApp.csproj.CoreCompileInputs.cache
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\bin\Debug\net7.0\DutiesAllocationApp.exe
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\bin\Debug\net7.0\DutiesAllocationApp.deps.json
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\bin\Debug\net7.0\DutiesAllocationApp.runtimeconfig.json
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\bin\Debug\net7.0\DutiesAllocationApp.dll
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\bin\Debug\net7.0\DutiesAllocationApp.pdb
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\bin\Debug\net7.0\ConsoleTables.dll
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\DutiesAllocationApp.csproj.CopyComplete
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\DutiesAllocationApp.dll
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\refint\DutiesAllocationApp.dll
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\DutiesAllocationApp.pdb
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\DutiesAllocationApp.genruntimeconfig.cache
+C:\Users\BELLO\Desktop\MyDutyApp\DutiesAllocation\obj\Debug\net7.0\ref\DutiesAllocationApp.dll
